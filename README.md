@@ -1,2 +1,3 @@
-# data-wars
-A collection of Data Science projects from datawars.io
+# Introduction to Machine Learning
+
+A collection of projects from kaggle
